@@ -1,0 +1,4 @@
+baseURL = 'https://dh.little-data.top/'
+languageCode = 'zh-cn'
+title = 'lite-navigate 网址导航'
+theme = 'WebStack-Hugo'
