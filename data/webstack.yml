@@ -40,11 +40,47 @@
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区
 
+- taxonomy: 游戏
+  icon: far fa-star
+  links:
+    - title: SteamGalgame
+      logo: https://steamgalgame.com/usr/themes/SteamGalgame/static/img/favicon.png
+      url: https://steamgalgame.com
+      description: Steam上的中文Galgame丨SteamGalgame
+
 - taxonomy: 动漫
   icon: fa fa-arrow-right
   list:
     - term: 动漫在线看/下载
       links:
+        - title: 诸神字幕组
+          logo:
+          url: https://subs.kamigami.org/
+          description: 做最好的中日双语字幕
+        - title: nyaa.net
+          logo:
+          url: https://nyaa.net/
+          description: 英文网页
+        - title: 橘子动漫
+          logo: https://img.mknacg.top:458/GIF%202021-04-23%2023-30-31.gif
+          url: https://www.mgnacg.com/
+          description: 我们致力为所有动漫迷们提供最好看的动漫
+        - title: milimili
+          logo: https://milimili.nl/static/favicon.ico
+          url: https://milimili.nl/
+          description: m站,动漫,米粒动漫0
+        - title: 漫岛动漫
+          logo:
+          url: https://www.mandaoo.com/
+          description: 漫岛动漫收集整理最新好看的动漫动画片大全
+        - title: 蚂蚁动漫
+          logo: https://www.myifun.com/mxtheme/images/favicon.ico
+          url: https://www.myifun.com/
+          description: 立志为广大动漫迷提供一个在线看动漫的好平台
+        - title: 233动漫
+          logo:
+          url: http://233dm.net/
+          description: 访问较为缓慢
         - title: 樱花动漫
           logo: yhdmkk.com.jpg
           url: https://yhdm.nl/
@@ -53,10 +89,6 @@
           logo: yhdmkk.com.jpg
           url: https://yhdmkk.com/
           description: 国内版
-        - title: age动漫
-          logo: agemys.net.ico
-          url: https://www.agemys.net
-          description: 主链接
         - title: age动漫
           logo: agemys.net.ico
           url: https://www.age.tv
