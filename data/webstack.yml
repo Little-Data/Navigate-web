@@ -47,6 +47,10 @@
       logo: https://steamgalgame.com/usr/themes/SteamGalgame/static/img/favicon.png
       url: https://steamgalgame.com
       description: Steam上的中文Galgame丨SteamGalgame
+    - title: SteamGalgame
+      logo: https://steamgalgame.com/usr/themes/SteamGalgame/static/img/favicon.png
+      url: https://steamgalgame.com
+      description: Steam上的中文Galgame丨SteamGalgame
 
 - taxonomy: 动漫
   icon: fa fa-arrow-right
